@@ -8,6 +8,6 @@
     "socket.io": "~0.9.16"
   },
     "engines": {
-    "node": "10.x"
+    "node": "8.x"
   }
 }
